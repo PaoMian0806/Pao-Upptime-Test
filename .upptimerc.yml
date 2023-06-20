@@ -1,16 +1,18 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: PaoMian # Your GitHub organization or username, where this repository lives
+repo: Wikidot-Upptime-Status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Wikidot
+    url: https://www.wikidot.com
+  - name: SCP-ZHTR
+    url: http://scp-zh-tr.wikidot.com
+  - name: SCP-EN
+    url: https://scp-wiki.wikidot.com
+  - name: SCP-JP
+    url: http://scp-jp.wikidot.com
+  - name: Backrooms
+    url: http://backrooms-wiki.wikidot.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
