@@ -22,18 +22,20 @@
     "url": "http://scp-zh-tr.wikidot.com",
     "icon": "https://icons.duckduckgo.com/ip3/scp-zh-tr.wikidot.com.ico",
     "slug": "scp-zhtr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 333,
-    "timeDay": 302,
-    "timeWeek": 318,
-    "timeMonth": 333,
-    "timeYear": 333,
-    "dailyMinutesDown": {}
+    "time": 325,
+    "timeDay": 195,
+    "timeWeek": 289,
+    "timeMonth": 325,
+    "timeYear": 325,
+    "dailyMinutesDown": {
+      "2023-07-10": 0
+    }
   },
   {
     "name": "SCP-EN",
