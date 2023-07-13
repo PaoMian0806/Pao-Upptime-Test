@@ -78,17 +78,19 @@
     "url": "http://backrooms-wiki.wikidot.com",
     "icon": "https://icons.duckduckgo.com/ip3/backrooms-wiki.wikidot.com.ico",
     "slug": "backrooms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 174,
-    "timeWeek": 177,
-    "timeMonth": 171,
-    "timeYear": 171,
-    "dailyMinutesDown": {}
+    "time": 260,
+    "timeDay": 1645,
+    "timeWeek": 545,
+    "timeMonth": 260,
+    "timeYear": 260,
+    "dailyMinutesDown": {
+      "2023-07-13": 0
+    }
   }
 ]
