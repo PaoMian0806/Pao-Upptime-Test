@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 403,
-    "timeWeek": 255,
-    "timeMonth": 209,
-    "timeYear": 209,
+    "time": 210,
+    "timeDay": 235,
+    "timeWeek": 232,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 333,
-    "timeDay": 687,
-    "timeWeek": 366,
-    "timeMonth": 333,
-    "timeYear": 333,
+    "time": 339,
+    "timeDay": 544,
+    "timeWeek": 359,
+    "timeMonth": 339,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2023-07-10": 7
     }
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 405,
-    "timeWeek": 242,
+    "timeDay": 222,
+    "timeWeek": 219,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {}
@@ -67,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 300,
-    "timeWeek": 186,
+    "timeDay": 190,
+    "timeWeek": 164,
     "timeMonth": 174,
     "timeYear": 174,
     "dailyMinutesDown": {}
@@ -80,15 +80,15 @@
     "slug": "backrooms",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 257,
-    "timeDay": 1166,
-    "timeWeek": 509,
-    "timeMonth": 257,
-    "timeYear": 257,
+    "time": 258,
+    "timeDay": 310,
+    "timeWeek": 507,
+    "timeMonth": 258,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2023-07-13": 7
     }
