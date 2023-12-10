@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wikidot.com.ico",
     "slug": "wikidot",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 205,
     "timeDay": 249,
     "timeWeek": 251,
     "timeMonth": 227,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2023-12-10": 0
+      "2023-12-10": 48
     }
   },
   {
