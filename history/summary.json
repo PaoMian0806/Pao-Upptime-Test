@@ -4,18 +4,20 @@
     "url": "https://www.wikidot.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.wikidot.com.ico",
     "slug": "wikidot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 207,
-    "timeWeek": 245,
-    "timeMonth": 225,
-    "timeYear": 204,
-    "dailyMinutesDown": {}
+    "time": 205,
+    "timeDay": 249,
+    "timeWeek": 251,
+    "timeMonth": 227,
+    "timeYear": 205,
+    "dailyMinutesDown": {
+      "2023-12-10": 0
+    }
   },
   {
     "name": "SCP-ZHTR",
