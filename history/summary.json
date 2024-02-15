@@ -86,9 +86,9 @@
     "url": "http://backrooms-wiki.wikidot.com",
     "icon": "https://icons.duckduckgo.com/ip3/backrooms-wiki.wikidot.com.ico",
     "slug": "backrooms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,6 +98,7 @@
     "timeMonth": 182,
     "timeYear": 178,
     "dailyMinutesDown": {
+      "2024-02-15": 0,
       "2023-07-17": 7,
       "2023-07-13": 7
     }
